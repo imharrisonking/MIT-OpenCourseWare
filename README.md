@@ -17,9 +17,13 @@ View the complete course taught by Dr. Ana Bell at [6.0001 - OpenCourseWare](htt
 
 ## 6.0002 Introduction to Computational Thinking and Data Science
 
-View the complete course taught by John Guttag at [6.0002 - OpenCourseWare](http://ocw.mit.edu/6-0002F16) or at this [YouTube playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
+View the complete course taught by Prof. John Guttag at [6.0002 - OpenCourseWare](http://ocw.mit.edu/6-0002F16) or at this [YouTube playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 
 #### [Week 1 - Optimisation Problems](MIT-6.0002/week1-optimisation/)
 
 ## 6.006 Introduction to Algorithms
 
+View the complete course taught by Prof. Erik Demaine, Dr Jason Ku and Prof. Justin Solomon at [6.006 - OpenCourseWare](https://ocw.mit.edu/6-006S20) or at this [YouTube playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+
+#### [Recitation Code Implementations](MIT-6.006/recitations)
+#### [Problem Session 1 - Asymptotic Behaviour of Function, Jen & Berry's](MIT-6.006/psession1/)
